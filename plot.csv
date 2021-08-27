@@ -1,4 +1,4 @@
-size (in 100b/s),noise (in 10% of total),speed (in seconds per 100s),granularity
+time,valueA,valueB,valueC
 10,5,10,1
 9,4.5,8,2
 8,4,5,3
